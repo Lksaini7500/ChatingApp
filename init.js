@@ -22,21 +22,15 @@ let allChats = [
     created_at: new Date(),
   },
   {
-    from: "anand",
-    to: "khushi",
-    msg: "Hello!!",
+    from: "tony",
+    to: "peter",
+    msg: "Love you 3000",
     created_at: new Date(),
   },
   {
-    from: "mohit",
-    to: "rohit",
+    from: "Hulk",
+    to: "thor",
     msg: "Lets play football",
-    created_at: new Date(),
-  },
-  {
-    from: "anvi",
-    to: "atharva",
-    msg: "lets play cricket",
     created_at: new Date(),
   },
 ];
